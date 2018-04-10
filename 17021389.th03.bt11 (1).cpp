@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    vector<long> a;
+    vector<long> a; //s?ssa
 
     long x, count = 0;
     float sum = 0, u = 0;
