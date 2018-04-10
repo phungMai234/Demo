@@ -35,5 +35,5 @@ int main()
     u /= (count );
 
     cout << fixed << setprecision(2) << sum << "\n" << u;
-
+// hdshdksd
 }
