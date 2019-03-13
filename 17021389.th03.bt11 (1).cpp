@@ -9,8 +9,7 @@ int main()
     vector<long> a; //s?ssa
 
     long x, count = 0;
-    float sum = 0, u = 0;
-    while(cin >> x)
+    float sum = 0, u =
     {
         a.push_back(x);
 
